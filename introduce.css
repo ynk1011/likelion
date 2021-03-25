@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Poor+Story&display=swap');
+
+
+.title{
+    color: midnightblue;
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.card-container{
+    width:1000px;
+}
+
+li{
+    list-style-type:none;
+    height: 300px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+ul{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.card-item-1{
+    background-color: lightpink;
+    font-family: 'Poor Story', cursive;
+    font-size: xx-large;
+}
+.card-item-2{
+    background-color: lightyellow;
+    font-family: 'Poor Story', cursive;
+    font-size: xx-large;
+}
+.card-item-3{
+    background-color: rgb(201, 226, 241);
+    font-family: 'Poor Story', cursive;
+    font-size: xx-large;
+}
+.card-item-4{
+    background-color: #b9a8e6;
+    font-family: 'Poor Story', cursive;
+    font-size: xx-large;
+}
+.card-item-5{
+    background-color: #ffc7b6;
+    font-family: 'Poor Story', cursive;
+    font-size: xx-large;
+}
+.card-item-6{
+    background-color: #c7f3f5;
+    font-family: 'Poor Story', cursive;
+    font-size: xx-large;
+}
+.card-item-7{
+    background-color: #d0e9b4;
+    font-family: 'Poor Story', cursive;
+    font-size: xx-large;
+}
+.card-item-8{
+    background-color: rgb(247, 193, 201);
+    font-family: 'Poor Story', cursive;
+    font-size: xx-large;
+}
+.card-item-9{
+    background-color: rgb(238, 163, 209);
+    font-family: 'Poor Story', cursive;
+    font-size: xx-large;
+}
